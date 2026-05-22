@@ -6,6 +6,8 @@
 
 # Lớp: 58KTPM
 
+# LỜI GIẢI Ở 1.md
+
 Bài tập 04:
 
 KHAI THÁC N8N ĐỂ TỰ ĐỘNG ĐĂNG BÀI LÊN WORDPRESS
